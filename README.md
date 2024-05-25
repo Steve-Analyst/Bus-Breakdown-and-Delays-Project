@@ -80,29 +80,81 @@ Regular Feedback and Evaluation: Gather feedback from drivers, parents, and scho
 By implementing these solutions, schools can minimize delays and ensure that school buses run on time, even in the face of heavy traffic, mechanical problems, and other challenges.
 
 
+## Delay times by bus company and borough
+
+### Delay Times as per Bus Company
+
+<img width="617" alt="image" src="https://github.com/stemla/Bus-Breakdown-and-Delays-Project/assets/170471393/18af6bd1-1b3f-4d52-856c-a0156518fa8f">
+
+
+<img width="515" alt="image" src="https://github.com/stemla/Bus-Breakdown-and-Delays-Project/assets/170471393/460067ed-e67d-4329-be80-0ca854bd0d65">
 
 
 
+## Outcomes:
+
+I selected the top 10 Bus Companies with the highest number of delays. Delay times for school buses can vary significantly depending on several factors, including the bus company's policies, operational efficiency, geographical location, traffic conditions, and weather conditions. For example, LEESEL TRANSP CORP (B2192) has 91126 Heavy Traffic delays and less than 600 Mechanical Problems. Though they are the highest, it could be that they operate in the cities that have too much traffic. When looking at PIONEER TRANSPORTATION CORP, you will notice that most of their delays are due to Heavy Traffic. Only less than 3 delays were caused by Mechanical issues. Compared with NEW DAWN TRANSIT, LLC (B2321), the buses in this company have many issues that cause delays.
+
+## Suggestions:
+
+Every bus company needs to be investigated using the provided data to see what causes delays. If the bus company has poor performance issues, it should be replaced by another company that has a proven record of offering a better service. Bus Companies should work with local authorities to implement traffic management strategies if the cause of the delays is due to Heavy Traffic.
 
 
+### The Delay times as per Boro
 
 
+<img width="629" alt="image" src="https://github.com/stemla/Bus-Breakdown-and-Delays-Project/assets/170471393/43b2ee65-5aa0-403f-89ec-57865219b0c7">
 
 
+<img width="599" alt="image" src="https://github.com/stemla/Bus-Breakdown-and-Delays-Project/assets/170471393/fc32c8fe-e03b-4a6f-800f-8103b0cb581c">
 
 
+## Outcomes:
+
+While each borough of New York City has its traffic challenges and characteristics, Manhattan stands out for its severe congestion, particularly in its central districts, while the Bronx and Brooklyn have more varied traffic patterns influenced by factors such as neighborhood density, transportation infrastructure, and industrial activity. Manhattan, being the most densely populated borough, typically experiences heavy traffic congestion, especially during peak commuting hours. Manhattan's narrow streets, numerous intersections, and high volume of vehicular and pedestrian traffic contribute to significant congestion, particularly in areas with major attractions or business districts. The Bronx has a mix of urban and residential neighborhoods, which can result in varying traffic patterns. The Bronx is intersected by several major highways, including the Cross Bronx Expressway and the Bronx River Parkway, which can experience heavy traffic congestion, especially during rush hours. Brooklyn is the most populous borough of New York City and is known for its diverse neighborhoods, each with its own traffic patterns. Some areas, like Downtown Brooklyn and Williamsburg, experience heavy traffic due to commercial and residential density, while others have quieter streets.
 
 
+## Suggestions:
+
+Local authorities and bus companies should work together to find solutions to these unwanted delays. 
 
 
+## The correlation between specific days of the week and the frequency of breakdowns or delays
+
+### Breakdown
+
+<img width="322" alt="image" src="https://github.com/stemla/Bus-Breakdown-and-Delays-Project/assets/170471393/ed80ca8f-1adf-4c1c-bba3-b20885903582">
 
 
+<img width="440" alt="image" src="https://github.com/stemla/Bus-Breakdown-and-Delays-Project/assets/170471393/143d240e-94e3-426b-b66c-994e1b6be044">
 
 
+## Outcomes:
+
+There is a huge spike in bus breakdowns on Monday and this decreases on Tuesday and increases slightly on Wednesday. On Fridays, fewer breakdowns are recorded compared to the rest of the days in the week.  A combination of factors such as weekend maintenance, driver awareness, reduced traffic, driver fatigue, weather conditions, vehicle wear and tear, and maintenance scheduling may contribute to fewer school bus breakdowns on Fridays compared to Mondays in the boroughs. School buses typically undergo maintenance and servicing during the weekend when they are not in use. Buses that have been serviced over the weekend are less likely to experience breakdowns on Mondays compared to buses that have not received maintenance for a longer period. Mondays often see increased demand for transportation services as students return to school after the weekend. This increased demand may put additional strain on school buses, leading to a higher likelihood of mechanical issues or breakdowns.
 
 
+## Suggestions:
+
+School districts or bus companies should schedule routine maintenance tasks, such as oil changes or inspections, for Fridays or weekends to minimize disruption to daily operations during the week. Regular maintenance can help prevent breakdowns by identifying and addressing potential issues before they become more serious. 
 
 
+### Running Late
+
+<img width="324" alt="image" src="https://github.com/stemla/Bus-Breakdown-and-Delays-Project/assets/170471393/48fb9448-cefe-4c27-9949-683c38aca2f7">
+
+
+<img width="418" alt="image" src="https://github.com/stemla/Bus-Breakdown-and-Delays-Project/assets/170471393/c457275e-9740-4092-b1ad-e44a0d684d18">
+
+
+## Outcomes:
+
+There is a huge spike in buses running late on Monday and this decreases on Tuesday and increases again on Wednesday. On Fridays, there are fewer delays recorded compared to the rest of the days in the week.  Student attendance may be lower on Mondays due to factors such as illness or extended weekends, leading to fewer students waiting at bus stops. However, on Fridays, student attendance tends to be higher as students are less likely to miss school at the end of the week, which may result in quicker boarding and fewer delays. Overall, a combination of factors such as weekend maintenance, driver familiarity, increased traffic, student attendance, weather conditions, vehicle maintenance issues, and schedule adjustments may contribute to school buses running late on Mondays compared to Fridays in the boroughs.
+
+
+## Suggestions:
+
+Better planning is needed over the weekend on how things will run on Monday. Parents, schools, and bus companies should communicate on time about any changes that might affect the normal schedule. 
 
 
 # Conclusion
