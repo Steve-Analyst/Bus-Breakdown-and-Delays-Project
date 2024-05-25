@@ -9,7 +9,7 @@ The project focuses on analyzing the Bus Breakdown and Delays in New York Counti
 - [Tools](#Tools)
 - [Data Cleaning or Preparation](#Data-Cleaning-or-Preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [1. The most common reasons for delays and breakdowns](#1.-The-most-common-reasons-for-delays-and-breakdowns)
+- [1 The most common reasons for delays and breakdowns](#1-The-most-common-reasons-for-delays-and-breakdowns)
 - [Delay times by bus company and borough](#Delay-times-by-bus-company-and-borough)
 - [The correlation between specific days of the week and the frequency of breakdowns or delays](#The-correlation-between-specific-days-of-the-week-and-the-frequency-of-breakdowns-or-delays)
 - [Conclusion](#Conclusion)
@@ -54,7 +54,7 @@ EDA involved exploring the Bus Breakdown and Delays Data to answer key questions
 
 ---
 
-## 1. The most common reasons for delays and breakdowns
+## 1 The most common reasons for delays and breakdowns
 
 ### Breakdown
 
