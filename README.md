@@ -9,9 +9,10 @@ The project focuses on analyzing the Bus Breakdown and Delays in New York Counti
 - [Tools](#Tools)
 - [Data Cleaning or Preparation](#Data-Cleaning-or-Preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [1 The most common reasons for delays and breakdowns](#1-The-most-common-reasons-for-delays-and-breakdowns)
-- [Delay times by bus company and borough](#Delay-times-by-bus-company-and-borough)
-- [The correlation between specific days of the week and the frequency of breakdowns or delays](#The-correlation-between-specific-days-of-the-week-and-the-frequency-of-breakdowns-or-delays)
+- [Answers to the above questions](#Answers-to-the-above-questions)
+  [1 The most common reasons for delays and breakdowns](#1-The-most-common-reasons-for-delays-and-breakdowns)
+  [2 Delay times by bus company and borough](#2-Delay-times-by-bus-company-and-borough)
+  [3 The correlation between specific days of the week and the frequency of breakdowns or delays](#3-The-correlation-between-specific-days-of-the-week-and-the-frequency-of-breakdowns-or-delays)
 - [Conclusion](#Conclusion)
 
 
@@ -50,7 +51,7 @@ EDA involved exploring the Bus Breakdown and Delays Data to answer key questions
 - How do delay times vary by bus company and borough?
 - Is there a correlation between specific days of the week and the frequency of breakdowns or delays?
 
-# Answers to the above questions:
+# Answers to the above questions
 
 ---
 
@@ -97,7 +98,7 @@ By implementing these solutions, schools can minimize delays and ensure that sch
 ---
 ---
 
-## 2. Delay times by bus company and borough
+## 2 Delay times by bus company and borough
 
 ### Delay Times as per Bus Company
 
@@ -138,7 +139,7 @@ Local authorities and bus companies should work together to find solutions to th
 ---
 ---
 
-## 3. The correlation between specific days of the week and the frequency of breakdowns or delays
+## 3 The correlation between specific days of the week and the frequency of breakdowns or delays
 
 ### Breakdown
 
