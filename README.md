@@ -2,6 +2,19 @@
 
 The project focuses on analyzing the Bus Breakdown and Delays in New York Counties
 
+## Table of Contents
+
+- [Scenario](#Scenario)
+- [Data Sources](#Data-Sources)
+- [Tools](#Tools)
+- [Data Cleaning or Preparation](#Data-Cleaning-or-Preparation)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [The most common reasons for delays and breakdowns](#The-most-common-reasons-for-delays-and-breakdowns)
+- [Delay times by bus company and borough](#Delay-times-by-bus-company-and-borough)
+- [The correlation between specific days of the week and the frequency of breakdowns or delays](#The-correlation-between-specific-days-of-the-week-and-the-frequency-of-breakdowns-or-delays)
+- [Conclusion](#Conclusion)
+
+
 ## Scenario
 
 I've been hired by the New York Division of Transportation as a Data Analyst with the primary goal of improving the efficiency and reliability of the city's bus transportation system. The city has been experiencing a significant number of bus breakdowns and delays, which has been causing inconvenience to commuters and straining the city's public transportation resources.
@@ -16,7 +29,7 @@ Bus Breakdown and Delays Data: The primary dataset used for this analysis is the
 
 Excel
 
-## Data Cleaning/Preparation
+## Data Cleaning or Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 
@@ -39,7 +52,9 @@ EDA involved exploring the Bus Breakdown and Delays Data to answer key questions
 
 # Answers to the above questions:
 
-## The most common reasons for delays and breakdowns
+---
+
+## 1. The most common reasons for delays and breakdowns
 
 ### Breakdown
 
@@ -79,8 +94,10 @@ Traffic Management Solutions: Work with local authorities to implement traffic m
 Regular Feedback and Evaluation: Gather feedback from drivers, parents, and school staff on bus performance and service quality. Use this feedback to identify areas for improvement and implement changes to enhance efficiency and reliability. 
 By implementing these solutions, schools can minimize delays and ensure that school buses run on time, even in the face of heavy traffic, mechanical problems, and other challenges.
 
+---
+---
 
-## Delay times by bus company and borough
+## 2. Delay times by bus company and borough
 
 ### Delay Times as per Bus Company
 
@@ -118,8 +135,10 @@ While each borough of New York City has its traffic challenges and characteristi
 
 Local authorities and bus companies should work together to find solutions to these unwanted delays. 
 
+---
+---
 
-## The correlation between specific days of the week and the frequency of breakdowns or delays
+## 3. The correlation between specific days of the week and the frequency of breakdowns or delays
 
 ### Breakdown
 
@@ -156,6 +175,7 @@ There is a huge spike in buses running late on Monday and this decreases on Tues
 
 Better planning is needed over the weekend on how things will run on Monday. Parents, schools, and bus companies should communicate on time about any changes that might affect the normal schedule. 
 
+---
 
 # Conclusion
 
